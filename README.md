@@ -1,6 +1,6 @@
 --------------------------------------
-# front_end
-##### Api desenvolvida em Node.js
+# Front_end_Planetfone
+##### Aplicação desenvolvida em React
 --------------------------------------
 
 ## #Para instalar todas as dependencias indicada pelo package.json execute o comando abaixo:
