@@ -1,5 +1,5 @@
 --------------------------------------
-# Front_end_Planetfone
+# Front_End_Planetfone
 ##### Aplicação desenvolvida em React
 --------------------------------------
 
